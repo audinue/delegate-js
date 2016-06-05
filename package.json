@@ -1,0 +1,24 @@
+{
+  "name": "delegate-js",
+  "version": "0.1.0",
+  "description": "Delegate events in browser.",
+  "main": "src/delegate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audinue/delegate-js.git"
+  },
+  "keywords": [
+    "event",
+    "delegate",
+    "browser"
+  ],
+  "author": "Audi Nugraha <audinue@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/audinue/delegate-js/issues"
+  },
+  "homepage": "https://github.com/audinue/delegate-js#readme"
+}
